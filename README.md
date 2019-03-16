@@ -75,10 +75,10 @@ export default {
 
 ## Testimonial
 
-`CN`：奥，亲爱的同行们，加入你们觉得这个项目还不错，请给我一个Star吧，加入有别的需求，可以给我
+`CN`：奥，亲爱的同行们，如果你们觉得这个项目还不错，请给我一个Star吧，加入有别的需求，可以给我
 提个issue，或者你有更好的改进思路，欢迎PR。
 
-`EN`：Oh, dear colleagues, join you and think that this project is not bad, please give me a Star, join other needs, you can give me
+`EN`：Oh, dear colleagues, if you and think that this project is not bad, please give me a Star, join other needs, you can give me
      Ask for an issue, or you have a better idea of ​​improvement, welcome PR.
 
 ## LICENSE 
