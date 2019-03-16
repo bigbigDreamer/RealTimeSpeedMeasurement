@@ -9,7 +9,7 @@
      In addition, the project also introduced the dashboard in `vue-echarts` to display the user's typing speed, with the more popular display speed of `canvas`.
  
 ## How To Use？
-
+ 
 > FirstStep
 ```bash
 npm i realtimespeed
