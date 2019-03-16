@@ -1,5 +1,14 @@
 # RealTimeSpeedMeasurement(realtimespeed)
 
+<p style='text-align:center'>
+
+[![](https://img.shields.io/github/repo-size/bigbigDreamer/RealTimeSpeedMeasurement.svg)](https://github.com/bigbigDreamer/RealTimeSpeedMeasurement)
+[![](https://img.shields.io/badge/v--charts-v1.19.0-brightgreen.svg)](https://github.com/ElemeFE/v-charts)
+[![](https://img.shields.io/github/package-json/v/bigbigDreamer/RealTimeSpeedMeasurement.svg)](https://github.com/bigbigDreamer/RealTimeSpeedMeasurement)
+[![](https://img.shields.io/github/license/bigbigDreamer/RealTimeSpeedMeasurement.svg)](https://github.com/bigbigDreamer/RealTimeSpeedMeasurement)
+[![](https://img.shields.io/npm/dw/realtimespeed.svg)](https://www.npmjs.com/package/realtimespeed)
+</p>
+
 ## 介绍
 
 `CN`：这个开源项目主要是用来测试用户的打字速度的，可以根据用户输入文本框的字符个数，判断用户每秒打字的速度，
