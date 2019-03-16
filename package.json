@@ -1,0 +1,23 @@
+{
+  "name": "realtimespeed",
+  "version": "1.0.0",
+  "description": "realtimespeed",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "keywords": [
+    "vue",
+    "component"
+  ],
+  "dependencies": {
+    "echarts": "^4.1.0",
+    "v-charts": "^1.19.0"
+  },
+  "devDependencies": {
+    "less": "^3.0.4",
+    "less-loader": "^4.1.0"
+  },
+  "author": "Eric Wang",
+  "license": "MIT"
+}
