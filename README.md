@@ -60,7 +60,7 @@ export default {
 `EN`：The biggest feature of this component is that it can detect when the user stops input and automatically within 8-10 seconds of stopping input.
      Clear text area content and initialize speed and clear timer.
 
-## EffectDemonstration
+## EffectDemonstration 
 
 ![display](https://github.com/bigbigDreamer/GraphBed/blob/master/MyBlogImg/speed.gif?raw=true)
 
